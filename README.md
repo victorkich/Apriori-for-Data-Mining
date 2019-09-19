@@ -1,4 +1,4 @@
-# Apriori algoritm for data mining
+# Apriori algorithm for data mining
 Exemple of implementation on python.
 
 Install the apriori dependences.
